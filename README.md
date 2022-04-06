@@ -5,7 +5,7 @@ ref: https://www.youtube.com/watch?v=ZOHIZXRfvVY&list=PL4cUxeGkcC9iK6Qhn-QLcXCXP
 ---
 # 1. SERVER
 
-### COMMANDS:
+### COMMANDS :
     npm init
     npm i express
 
