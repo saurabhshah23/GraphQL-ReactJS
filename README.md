@@ -14,7 +14,8 @@ ref: https://www.youtube.com/watch?v=ZOHIZXRfvVY&list=PL4cUxeGkcC9iK6Qhn-QLcXCXP
 
     // nodemon for continuous watch on code and restart for any changes.
     npm i -g nodemon
-    // start the server
+    // write basic code and start the server (all server code is insite /server)
+    cd server
     nodemon app
 
 ### DESCRIPTION:
