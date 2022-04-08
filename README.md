@@ -1,10 +1,10 @@
-020422: GQL
-ref: https://www.youtube.com/watch?v=ZOHIZXRfvVY&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f&index=5
-OVERVIEW:
+# GraphQL
+* Started learning on 02apr2022:\
+* ref: https://www.youtube.com/watch?v=ZOHIZXRfvVY&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f&index=5
 * VIDS 01-15 - All about server, graphql queries, schema and dummy-data.
 * VIDS 16- - Mongo DB and DB integration.
+
 ---
-## STEPS:
 # 1. SERVER
 ### COMMANDS:
     npm init
@@ -28,9 +28,10 @@ OVERVIEW:
     * Graphiql is used to play around with queries in interactive UI.
     * GraphQLID is a type to use for quering without being concerned about the datatype of the ID.
 
-# 1. MONGO DB
+# 2. MONGO DB
 ### COMMANDS:
-
+    npm install mongoose
+    
 ### DESCRIPTION:
 
 ---
